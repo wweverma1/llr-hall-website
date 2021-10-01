@@ -9,6 +9,7 @@ Official Website for Lala Lajpat Rai Hall of Residence.
 - Complaint Zone
 - NoticeBoard
 - Admin Panel to manage the data
+- Office Bearers' Panel to view and update the complaints
 
 ## Setup
 - Install Python3.9.5
