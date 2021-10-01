@@ -1,7 +1,7 @@
 # llr_hall_website
-Website for LLR Hall of Residence
+Official Website for Lala Lajpat Rai Hall of Residence.
 
-Includes Features like:
+Features:
 - About/Info of Hall
 - Photos (photos posted on instagram with #llrhalliitkgp)
 - Hall Magzine
