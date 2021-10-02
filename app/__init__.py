@@ -19,8 +19,10 @@ db = SQLAlchemy(app)
 SCHEMA_NAME = os.getenv("SCHEMA_NAME")
 
 from app.home.routes import home_api
+from app.responsibilties.routes import responsibilties_api
 
 app.register_blueprint(home_api)
+app.register_blueprint(responsibilties_api)
 
 from app.utils.app_functions import (
     before_request,
