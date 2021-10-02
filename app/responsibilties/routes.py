@@ -7,4 +7,5 @@ from app.responsibilties.controller import (
 
 responsibilties_api = Blueprint('responsibilties', __name__)
 
-responsibilties_api.add_url_rule(rule='/responsibilties/fetch_responsibilty_type', view_func=fetch_responsibilty, methods=['GET', ])
+responsibilties_api.add_url_rule(rule='/responsibilties/fetch_responsibilty_type',
+                                 view_func=fetch_responsibilty, methods=['GET', ])

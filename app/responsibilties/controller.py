@@ -7,5 +7,6 @@ from app.responsibilties.constants import (
     RESPONSIBILITY,
 )
 
+
 def fetch_responsibilty():
     return jsonify(RESPONSIBILITY)
