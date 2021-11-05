@@ -6,10 +6,10 @@ Official Website for Lala Lajpat Rai Hall of Residence.
 - Photos (photos posted on instagram with #llrhalliitkgp)
 - Hall Magzine
 - Office Bearers (Current & Past)
-- Complaint Zone
+- Complaint Section
 - NoticeBoard
 - Admin Panel to manage the data
-- Office Bearers' Panel to view and update the complaints
+- Office Bearers' Panel to view and update the status of complaints
 
 ## Setup
 - Install Python3.9.5
