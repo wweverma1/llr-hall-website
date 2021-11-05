@@ -1,6 +1,7 @@
 # LLR Hall Website
 Official Website for Lala Lajpat Rai Hall of Residence.
 
+### Deployed on [Heroku](https://llr-hall-website.herokuapp.com/)
 ## Features:
 - About/Info of Hall
 - Photos (photos posted on instagram with #llrhalliitkgp)
