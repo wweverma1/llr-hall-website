@@ -1,4 +1,4 @@
-# llr_hall_website
+# LLR Hall Website
 Official Website for Lala Lajpat Rai Hall of Residence.
 
 ## Features:
