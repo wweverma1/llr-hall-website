@@ -1,6 +1,6 @@
 # LLR Hall Website
 
-Website for Lala Lajpat Rai Hall of Residence.
+A proposal website with a lot of amazing features for Lala Lajpat Rai Hall of Residence.
 
 ## Deployed on Heroku
 
